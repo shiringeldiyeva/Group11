@@ -7,5 +7,6 @@ public class Marwan02 {
         References are: Class, String, Array, Interface
          */
         System.out.println("Can have another look");
+        System.out.println("I HOPE IT WILL WORK OUT THIS TIME");
     }
 }

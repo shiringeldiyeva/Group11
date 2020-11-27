@@ -6,5 +6,6 @@ public class Marwan02 {
         Primitives are: boolean, byte, short, int, double, float,long
         References are: Class, String, Array, Interface
          */
+        System.out.println("Can have another look");
     }
 }

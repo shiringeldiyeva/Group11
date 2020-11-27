@@ -7,5 +7,8 @@ public class Marwan01 {
         // so far so good
         // we have been doing so good
         // i like to practice with my team
+        for (int  i = 1; i<5; i++){
+            System.out.println("Good morning");
+        }
     }
 }

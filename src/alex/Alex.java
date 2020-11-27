@@ -7,5 +7,6 @@ public class Alex {
 
 
         // first class in git
+        // second line
     }
 }

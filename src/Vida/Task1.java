@@ -5,6 +5,8 @@ public class Task1 {
         //hello guys
 
         System.out.println("hi group members");
+
+        System.out.println("we are having fun");
     }
 
 

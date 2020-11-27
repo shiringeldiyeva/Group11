@@ -10,6 +10,8 @@ public class Task1 {
         // we are all learning
 
         // excellent job guys
+
+        System.out.println("this is good");
     }
 
 

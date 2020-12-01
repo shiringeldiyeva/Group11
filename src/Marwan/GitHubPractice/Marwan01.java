@@ -1,4 +1,4 @@
-package Marwan;
+package Marwan.GitHubPractice;
 
 public class Marwan01 {
     // hello

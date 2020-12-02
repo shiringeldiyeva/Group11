@@ -17,7 +17,7 @@ public class IntQuesRemoveFindUnique {
             }
 //            if (count==2 && !str2.contains(each1))
 //                str2+=each1;
-            if (!str2.contains(each1)){ // this condition is used for adding the count with the chars
+            if (!str2.contains(each1)){ // this condition is used for adding the count with the chars, output should be= A5B2C2D2E1F1G1
                 str2+=each1+count;
             }
 

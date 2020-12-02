@@ -15,8 +15,12 @@ public class IntQuesRemoveFindUnique {
 
                 if (each2.equals(each1))count++;
             }
-            if (count==2 && !str2.contains(each1))
-                str2+=each1;
+//            if (count==2 && !str2.contains(each1))
+//                str2+=each1;
+            if (!str2.contains(each1)){ // this condition is used for adding the count with the chars
+                str2+=each1+count;
+            }
+
         }
         System.out.println(str2);
 

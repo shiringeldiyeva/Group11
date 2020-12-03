@@ -29,9 +29,10 @@ public class InterviewQuesFrequency {
         //for (String each : str.split(""))list.add(each);
 
         list.addAll(Arrays.asList(str.split("")));
-        for (String each : list) {
+        for (String each : list) { //
             int freq = Collections.frequency(list, each);
-            if (!newString.contains(each)) newString += each +freq;
+            if (newString.contains(each)) continue;
+        newString += each +freq;
         }
         System.out.println(newString);
 

@@ -1,4 +1,4 @@
-package Marwan.Methods;
+package Marwan.methods;
 
 public class IntQuesRemoveFindUnique {
     public static void main(String[] args) {

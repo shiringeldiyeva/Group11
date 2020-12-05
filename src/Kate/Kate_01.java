@@ -1,7 +1,5 @@
 package Kate;
 
-import Marwan.Methods.MethodGroupPractice;
-
 public class Kate_01 {
     public static void main(String[] args) {
 

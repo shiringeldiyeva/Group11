@@ -1,6 +1,4 @@
-package Marwan.Methods;
-
-import javax.print.DocFlavor;
+package Marwan.methods;
 
 public class MethodGroupPractice {
     public static void main(String[] args) {

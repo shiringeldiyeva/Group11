@@ -1,4 +1,4 @@
-package Marwan.Methods;
+package Marwan.methods;
 
 public class MethodsPractice1 {
     public static void main(String[] args) {

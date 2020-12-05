@@ -1,9 +1,4 @@
-package Marwan.Methods;
-
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-import sun.security.util.AuthResources_it;
-
-import java.util.Arrays;
+package Marwan.methods;
 
 public class IntQuesRemoveDuplicates { // remove duplicates == find unique characters
     public static void main(String[] args) {

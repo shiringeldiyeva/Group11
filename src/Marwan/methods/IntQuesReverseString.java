@@ -1,4 +1,4 @@
-package Marwan.Methods;
+package Marwan.methods;
 
 public class IntQuesReverseString {
     public static void main(String[] args) {

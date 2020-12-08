@@ -6,8 +6,10 @@ import java.util.Arrays;
 public class ArrayPractice {
     public static void main(String[] args) {
 
+//        char a = 122;
+//        System.out.println(a);
 
-
+        
 
         /*Find LargestGap between integers
 
@@ -48,6 +50,13 @@ public class ArrayPractice {
         System.out.println(list);
 
          */
+        Integer i1 = 4000;
+        Integer i2 = 4000;
+        System.out.println(i1.equals(i1));// you will get true
+
+//        for (int i = 0 ; i<128 ; i++){
+//            System.out.println(i);
+//        }
 
     }
 }

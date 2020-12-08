@@ -5,7 +5,6 @@ public class Alex {
         System.out.println("hello");
 
 
-
         // first class in git
         // second line
 

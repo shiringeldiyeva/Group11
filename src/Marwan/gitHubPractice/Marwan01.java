@@ -1,6 +1,4 @@
-package Marwan.GitHubPractice;
-
-import Marwan.Methods.MethodGroupPractice;
+package Marwan.gitHubPractice;
 
 public class Marwan01 {
     // hello

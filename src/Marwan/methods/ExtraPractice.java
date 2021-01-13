@@ -1,7 +1,4 @@
-package Marwan.Methods;
-
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-import org.jcp.xml.dsig.internal.dom.DOMUtils;
+package Marwan.methods;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Marwan;
+package Marwan.gitHubPractice;
 
 public class Marwan02 {
     public static void main(String[] args) {

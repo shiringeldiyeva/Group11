@@ -1,4 +1,4 @@
-package Marwan;
+package Marwan.gitHubPractice;
 
 public class Marwan01 {
     // hello
@@ -9,6 +9,7 @@ public class Marwan01 {
         // i like to practice with my team
         for (int  i = 1; i<5; i++){
             System.out.println("Good morning");
+
         }
     }
 }
